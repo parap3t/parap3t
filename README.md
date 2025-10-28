@@ -15,7 +15,7 @@
 
 
 ### 📜 Курсы и сертификаты
--  [Сертификат ИТ компетенций Python](https://github.blog/2021-09-12-recipients-open-source-grants-github-sponsors-india/)
+-  [Сертификат ИТ компетенций Python](https://disk.yandex.ru/i/gtqCZbqQwOdm-A)
   
 
 ### 🛠 Языки и инструменты
