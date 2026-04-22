@@ -8,7 +8,7 @@
 
     
 ### 🔗 Связь со мной
-- <a href="https://t.me/parap3t" target="_blank">
+- <a href="https://t.me/parapetio" target="_blank">
     Telegram
 </a>
 
