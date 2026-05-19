@@ -18,6 +18,7 @@
 -  [Сертификат ИТ компетенций Python](https://disk.yandex.ru/i/gtqCZbqQwOdm-A)
 -  [Диплом участника хакатона от альфа банка](https://disk.yandex.ru/i/d6MQnH7tMXcNlw)
 -  [Сертификат отоборочного этапа Я.Профессионал](https://disk.yandex.ru/i/pZmC7XU-LOsDYA)
+-  [Сертификат участника ВТБ Лига](https://disk.yandex.ru/i/t5oERtIaW2pJNw)
 
 ### 🛠 Языки и инструменты
 
